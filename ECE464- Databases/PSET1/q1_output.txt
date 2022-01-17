@@ -1,0 +1,79 @@
+Q1
+101	Interlake	2
+102	Interlake	3
+103	Clipper	3
+104	Clipper	5
+105	Marine	3
+106	Marine	3
+107	Marine	1
+108	Driftwood	1
+109	Driftwood	4
+110	Klapser	3
+111	Sooney	1
+112	Sooney	1
+
+Q2
+(EMPTY)
+
+Q3
+23	emilio
+24	scruntus
+35	figaro
+61	ossola
+62	shaun
+
+Q4
+104	Clipper	5
+
+Q5
+29	brutus
+32	andy
+58	rusty
+60	jit
+71	zorba
+74	horatio
+85	art
+90	vin
+95	bob
+
+Q6
+35.0000
+
+Q7
+brutus	29	1	33
+scruntus	24	1	33
+art	85	3	25
+dye	89	3	25
+horatio	64	7	16
+ossola	61	7	16
+andy	32	8	25
+stum	59	8	25
+horatio	74	9	25
+dan	88	9	25
+rusty	58	10	35
+zorba	71	10	35
+jit	60	10	35
+shaun	62	10	35
+
+Q8
+Clipper	dusting	1
+Clipper	emilio	1
+Clipper	figaro	1
+Clipper	horatio	1
+Clipper	lubber	1
+Clipper	scruntus	1
+Driftwood	dye	1
+Driftwood	jit	1
+Driftwood	stum	1
+Driftwood	vin	1
+Interlake	dusting	1
+Interlake	horatio	1
+Interlake	lubber	1
+Klapser	dan	2
+Marine	dan	1
+Marine	emilio	1
+Marine	figaro	1
+Marine	jit	2
+Marine	stum	1
+Sooney	dan	1
+Sooney	ossola	1
